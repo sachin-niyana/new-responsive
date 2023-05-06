@@ -288,6 +288,17 @@
     opacity: 0.8;
 }
 
+.last-font {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 180%;
+    text-align: center;
+    color: #000000;
+    opacity: 0.7;
+}
+
 .col_1 {
     padding-left: 12px;
     padding-right: 12px;
@@ -484,6 +495,10 @@
 
 .translate {
     transform: translateY(-30%);
+}
+
+.gap-5 {
+    gap: 70px;
 }
 
 .bg-color {
