@@ -431,6 +431,10 @@
     overflow: hidden;
 }
 
+.ml-text {
+    margin-left: 12px;
+}
+
 
 .burger-1 {
     width: 8%;
